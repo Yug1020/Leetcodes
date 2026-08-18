@@ -7,6 +7,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -53,6 +54,7 @@ This is my Leetcode repository
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -66,4 +68,24 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
