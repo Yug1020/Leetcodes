@@ -78,6 +78,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+| [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 ## Trie
 |  |
 | ------- |
@@ -108,4 +109,20 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
+## Math
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
