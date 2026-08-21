@@ -6,6 +6,7 @@ This is my Leetcode repository
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
@@ -15,6 +16,7 @@ This is my Leetcode repository
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 ## Tree
@@ -56,6 +58,7 @@ This is my Leetcode repository
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 ## Backtracking
