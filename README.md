@@ -7,6 +7,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
@@ -125,4 +126,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
