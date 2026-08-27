@@ -140,9 +140,22 @@ This is my Leetcode repository
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
