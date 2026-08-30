@@ -18,18 +18,15 @@ class Solution:
                 max_num = nums[i]
                 max_ind = i
         
-        print("min_ind:-", min_ind, "max_ind:-", max_ind)
         min_fL = abs(min_ind + 1)
         min_fR = abs(len(nums) - min_ind)
 
-        # print("min_fL", min_fL, "min_fR", min_fR)
 
         Final_min_ind = min(min_fL, min_fR)
 
         max_fL = abs(0 - (max_ind + 1))
         max_fR = abs(len(nums) - max_ind)
 
-        # print("max_fL", max_fL, "max_fR",max_fR)
         Final_max_ind = min(max_fL, max_fR)
 
         result_L = max(min_ind, max_ind) + 1
@@ -37,6 +34,4 @@ class Solution:
 
 
         addition = Final_min_ind + Final_max_ind
-        print(addition, result_R, result_L)
-        result = min(addition, result_R, result_L)
-        return result
+        return min(addition, result_R, result_L)
