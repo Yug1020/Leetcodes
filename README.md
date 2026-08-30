@@ -14,6 +14,7 @@ This is my Leetcode repository
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,4 +159,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
