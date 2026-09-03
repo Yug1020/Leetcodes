@@ -1,66 +1,31 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        n1 = len(nums1)
-        n2 = len(nums2)
-        plus = n1 + n2
-        arrIs = "even"
-        print("plus", plus)
 
-        if plus % 2 == 0:
-            arrIs = "even"
-        else:
-            arrIs = "odd"
-        print("arrIs", arrIs)
+        # Since one of the arrays can be significantly longer than
+        # the other, we always perform binary search on the shorter
+        # array to ensure that the time complexity remains
+        # O(log(min(m, n))).
+        if len(nums1) > len(nums2):
+            return self.findMedianSortedArrays(nums2, nums1)
 
-        if arrIs == "even":
-            ind = plus / 2
-        else:
-            ind = plus // 2
-        print("ind", ind)
+        len1, len2 = len(nums1), len(nums2)
+        left, right = 0, len1
 
-        if arrIs == "odd":
-            for _ in range(ind):
-                if len(nums1)!=0 and len(nums2)!= 0 and nums1[0] <= nums2[0]:
-                    nums1.pop(0)
-                elif len(nums1)!=0 and len(nums2)!= 0 and nums1[0] >= nums2[0]:
-                    nums2.pop(0)
-                elif len(nums1) == 0:
-                    nums2.pop(0)
-                elif len(nums2) == 0:
-                    nums1.pop(0)
+        while left <= right:
+            part1 = (left + right) // 2
+            part2 = (len1 + len2 + 1) // 2 - part1
 
-            if len(nums1)!=0 and len(nums2)!= 0 and nums1[0] <= nums2[0]:
-                return nums1.pop(0)
-            elif len(nums1)!=0 and len(nums2)!= 0 and nums1[0] >= nums2[0]:
-                return nums2.pop(0)
-            elif len(nums1) == 0:
-                return nums2.pop(0)
-            elif len(nums2) == 0:
-                return nums1.pop(0)
+            max_left1 = float('-inf') if part1 == 0 else nums1[part1 - 1]
+            min_right1 = float('inf') if part1 == len1 else nums1[part1]
+            max_left2 = float('-inf') if part2 == 0 else nums2[part2 - 1]
+            min_right2 = float('inf') if part2 == len2 else nums2[part2]
 
-        if arrIs == "even":
-            for _ in range(int(ind)):
-                if len(nums1)!=0 and len(nums2)!= 0 and nums1[0] <= nums2[0]:
-                    last_value = nums1.pop(0)
-                elif len(nums1)!=0 and len(nums2)!= 0 and nums1[0] >= nums2[0]:
-                    last_value = nums2.pop(0)
-                elif len(nums1) == 0:
-                    last_value = nums2.pop(0)
-                elif len(nums2) == 0:
-                    last_value = nums1.pop(0)
-
-            if len(nums1)!=0 and len(nums2)!= 0 and nums1[0] <= nums2[0] :
-                res = (nums1[0] + last_value) / 2
-                return res
-
-            elif len(nums1)!=0 and len(nums2)!= 0 and nums1[0] >= nums2[0]:
-                res = (nums2[0] + last_value) / 2
-                return res
-
-            elif len(nums1) == 0:
-                res = (nums2[0] + last_value) / 2
-                return res
-
-            elif len(nums2) == 0:
-                res = (nums1[0] + last_value) / 2
-                return res
+            if max_left1 <= min_right2 and max_left2 <= min_right1:
+                if (len1 + len2) % 2 == 0:
+                    return (max(max_left1, max_left2) + min(min_right1, min_right2)) / 2
+                else:
+                    return max(max_left1, max_left2)
+            elif max_left1 > min_right2:
+                right = part1 - 1
+            else:
+                left = part1 + 1
