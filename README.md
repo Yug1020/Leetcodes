@@ -83,11 +83,13 @@ This is my Leetcode repository
 | ------- |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+| [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+| [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -158,6 +160,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +174,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
