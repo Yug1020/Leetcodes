@@ -91,6 +91,7 @@ This is my Leetcode repository
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
@@ -150,6 +151,7 @@ This is my Leetcode repository
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -192,4 +194,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
