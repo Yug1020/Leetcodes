@@ -83,6 +83,7 @@ This is my Leetcode repository
 | ------- |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -155,10 +156,12 @@ This is my Leetcode repository
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 ## Recursion
@@ -178,4 +181,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
