@@ -25,6 +25,7 @@ This is my Leetcode repository
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -34,6 +35,7 @@ This is my Leetcode repository
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sorting
 |  |
@@ -113,11 +115,13 @@ This is my Leetcode repository
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 ## Matrix
