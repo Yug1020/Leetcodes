@@ -11,6 +11,7 @@ This is my Leetcode repository
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
@@ -34,6 +35,7 @@ This is my Leetcode repository
 | [0004-median-of-two-sorted-arrays](https://github.com/Yug1020/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,10 +45,12 @@ This is my Leetcode repository
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -131,6 +135,7 @@ This is my Leetcode repository
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
