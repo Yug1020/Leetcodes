@@ -17,6 +17,7 @@ This is my Leetcode repository
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ This is my Leetcode repository
 | [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
+| [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
 |  |
 | ------- |
