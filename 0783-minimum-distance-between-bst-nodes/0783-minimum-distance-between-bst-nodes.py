@@ -12,8 +12,8 @@ class Solution:
             if diff[0] == 1:
                 return diff[0]
                 
+            sub = float('inf')
             if current and current.left and diff[0] != 1:
-                sub = float('inf')
                 for i in lastNodes:
                     temp = abs(i - current.left.val)
                     sub = min(sub, temp)
@@ -21,7 +21,6 @@ class Solution:
                     diff[0] = sub
                 recMin(current.left, diff, lastNodes)
             if current and current.right and diff[0] != 1:
-                sub = float('inf')
                 for i in lastNodes:
                     temp = abs(i - current.right.val)
                     sub = min(sub, temp)                    
