@@ -31,6 +31,7 @@ This is my Leetcode repository
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -38,12 +39,14 @@ This is my Leetcode repository
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -130,12 +133,14 @@ This is my Leetcode repository
 | [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Yug1020/Leetcodes/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/Yug1020/Leetcodes/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Matrix
 |  |
 | ------- |
