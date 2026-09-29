@@ -153,6 +153,7 @@ This is my Leetcode repository
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Yug1020/Leetcodes/tree/master/0050-powx-n) |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 | [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
@@ -195,6 +196,7 @@ This is my Leetcode repository
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Yug1020/Leetcodes/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
