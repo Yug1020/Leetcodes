@@ -6,21 +6,31 @@
 #         self.right = right
 
 class Solution:
-    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        if not nums:
-            return None
+    def sortedArrayToBST(self, nums: list[int]) -> TreeNode | None:
+        root_ind = (len(nums) - 1) // 2
         
-        # Find the middle index
-        mid = len(nums) // 2
-        
-        # Create the root node with the middle value
-        root = TreeNode(nums[mid])
-        
-        # Recursively build the left subtree using the left half of the array
-        root.left = self.sortedArrayToBST(nums[:mid])
-        
-        # Recursively build the right subtree using the right half of the array
-        root.right = self.sortedArrayToBST(nums[mid+1:])
-        
-        # Return the finished node back up the chain
+        def bst(root, left, right):
+            left_mid_ind = (len(left) - 1) // 2
+            right_mid_ind = (len(right) - 1) // 2
+            
+            if len(left) != 0:
+                left_value = left[left_mid_ind]
+            if len(right) != 0:
+                right_value = right[right_mid_ind]
+
+            if len(left) != 0:
+                root.left = TreeNode(left_value)
+                bst(root.left, left[0:left_mid_ind], left[left_mid_ind + 1: len(left)])
+
+            if len(right) != 0:
+                root.right = TreeNode(right_value)
+                bst(root.right, right[0: right_mid_ind], right[right_mid_ind + 1: len(right)])
+
+            if len(left) == 0 and len(right) == 0:
+                return root
+
+
+        root = TreeNode(nums[root_ind])
+        bst(root, nums[0:root_ind], nums[root_ind + 1: len(nums)])
+
         return root
