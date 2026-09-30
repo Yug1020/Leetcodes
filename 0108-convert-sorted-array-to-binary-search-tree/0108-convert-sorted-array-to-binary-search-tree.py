@@ -26,8 +26,8 @@ class Solution:
                 root.right = TreeNode(right_value)
                 bst(root.right, right[0: right_mid_ind], right[right_mid_ind + 1: len(right)])
 
-            if len(left) == 0 and len(right) == 0:
-                return root
+            # if len(left) == 0 and len(right) == 0:
+            return root
 
 
         root = TreeNode(nums[root_ind])
