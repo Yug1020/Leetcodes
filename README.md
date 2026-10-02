@@ -16,6 +16,7 @@ This is my Leetcode repository
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
@@ -213,6 +214,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -226,4 +228,8 @@ This is my Leetcode repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
