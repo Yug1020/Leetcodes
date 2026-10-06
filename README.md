@@ -119,6 +119,7 @@ This is my Leetcode repository
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -186,6 +187,7 @@ This is my Leetcode repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -211,6 +213,7 @@ This is my Leetcode repository
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
@@ -237,6 +240,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Prefix Sum
 |  |
