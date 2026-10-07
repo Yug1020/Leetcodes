@@ -23,8 +23,8 @@ class Solution:
 
             return output
 
-        print("goal =", helperFunc(nums, goal))
-        print("goal - 1 =", helperFunc(nums, goal - 1))
+        # print("goal =", helperFunc(nums, goal))
+        # print("goal - 1 =", helperFunc(nums, goal - 1))
         result = helperFunc(nums, goal) - helperFunc(nums, goal - 1)
 
         return result
