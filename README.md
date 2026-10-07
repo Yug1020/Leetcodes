@@ -110,6 +110,7 @@ This is my Leetcode repository
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yug1020/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -121,6 +122,7 @@ This is my Leetcode repository
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yug1020/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yug1020/Leetcodes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -227,6 +229,7 @@ This is my Leetcode repository
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yug1020/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Floyd's Cycle Finding Algorithm
 |  |
