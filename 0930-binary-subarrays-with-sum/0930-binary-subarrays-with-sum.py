@@ -20,6 +20,6 @@ class Solution:
 
             return output
 
-        result = helperFunc(nums, goal) - helperFunc(nums, goal - 1)
+        # result = (helperFunc(nums, goal) - helperFunc(nums, goal - 1))
 
-        return result
+        return (helperFunc(nums, goal) - helperFunc(nums, goal - 1))
