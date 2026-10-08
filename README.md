@@ -19,6 +19,7 @@ This is my Leetcode repository
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Yug1020/Leetcodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yug1020/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -80,6 +81,7 @@ This is my Leetcode repository
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Yug1020/Leetcodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@ This is my Leetcode repository
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Yug1020/Leetcodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yug1020/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yug1020/Leetcodes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -231,6 +234,7 @@ This is my Leetcode repository
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Yug1020/Leetcodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yug1020/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
