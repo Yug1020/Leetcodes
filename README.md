@@ -16,6 +16,7 @@ This is my Leetcode repository
 | [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yug1020/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Yug1020/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Yug1020/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
@@ -275,6 +276,7 @@ This is my Leetcode repository
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yug1020/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yug1020/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
