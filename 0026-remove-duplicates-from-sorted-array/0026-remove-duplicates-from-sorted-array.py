@@ -1,11 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
-        write = 1
-        curVal = nums[0]
+        left = 1 
 
-        for i in range(1, len(nums)):
-            if nums[i] != curVal:
-                curVal = nums[i]
-                nums[write] = nums[i]
-                write += 1
-        return write
+        for right in range(1, len(nums)):
+            if nums[left - 1] != nums[right]:
+                nums[left] = nums[right]
+                left += 1
+        return left
