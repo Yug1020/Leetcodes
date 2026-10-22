@@ -22,6 +22,7 @@ This is my Leetcode repository
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Yug1020/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Yug1020/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
@@ -124,6 +125,7 @@ This is my Leetcode repository
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Yug1020/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -281,6 +283,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yug1020/Leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Yug1020/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yug1020/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
