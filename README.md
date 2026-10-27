@@ -12,6 +12,7 @@ This is my Leetcode repository
 | [0015-3sum](https://github.com/Yug1020/Leetcodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Yug1020/Leetcodes/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yug1020/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ This is my Leetcode repository
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
@@ -211,6 +213,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yug1020/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Yug1020/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -230,6 +233,7 @@ This is my Leetcode repository
 | [0011-container-with-most-water](https://github.com/Yug1020/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yug1020/Leetcodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yug1020/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yug1020/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -288,4 +292,8 @@ This is my Leetcode repository
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yug1020/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yug1020/Leetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
