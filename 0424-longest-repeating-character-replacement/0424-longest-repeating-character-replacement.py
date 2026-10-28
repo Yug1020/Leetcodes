@@ -20,8 +20,8 @@ class Solution:
                 fCount[s[left]] -= 1
                 left += 1
 
-            curr_len = i - left
+            curr_len = i - left + 1
             if curr_len > output:
                 output = curr_len
             
-        return output + 1
+        return output
