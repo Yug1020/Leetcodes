@@ -16,10 +16,10 @@ class Solution:
             if fCount[s[i]] > maxF:
                 maxF = fCount[s[i]]
 
-            while (i - left) - maxF >= k:
+            while (i - left + 1) - maxF > k:
                 fCount[s[left]] -= 1
                 left += 1
-            
+
             curr_len = i - left
             if curr_len > output:
                 output = curr_len
