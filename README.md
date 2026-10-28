@@ -127,6 +127,7 @@ This is my Leetcode repository
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yug1020/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Yug1020/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
@@ -143,6 +144,7 @@ This is my Leetcode repository
 | [0076-minimum-window-substring](https://github.com/Yug1020/Leetcodes/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yug1020/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yug1020/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yug1020/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yug1020/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -261,6 +263,7 @@ This is my Leetcode repository
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yug1020/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Yug1020/Leetcodes/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yug1020/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Yug1020/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
