@@ -24,34 +24,24 @@ class Solution:
         
         mid = count // 2
 
-        # print("odd =", odd, "mid =", mid, "count =", count)
-
         temp = head
         count = 0
         while temp:
             if count < mid:
                 stack.append(temp.val)
-            # print("stack", stack)
 
             if count == mid:
                 if odd == True:
-                    # print("worked")
                     temp = temp.next
 
-            # print("count =", count)
-            # print("temp =", temp.val)
 
             if count >= mid:
                 if len(stack) > 0 and temp.val == stack[len(stack) - 1]:
-                    # 
-                    ("temp =", temp.val, "stack[len] =", stack[len(stack) - 1])
                     stack.pop()
                 else:
-                    # print("temp =", temp.val, "stack[len] =", stack[len(stack) - 1])
                     return False
 
             temp = temp.next
             count += 1
-            # print("")
 
         return True
