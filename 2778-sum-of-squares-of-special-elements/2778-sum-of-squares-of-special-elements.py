@@ -5,7 +5,7 @@ class Solution:
 
         for i in range(n):
             if n % (i + 1) == 0:
-                print("nums[i]", nums[i])
+                # print("nums[i]", nums[i])
                 output += nums[i] * nums[i]
             else:
                 pass
