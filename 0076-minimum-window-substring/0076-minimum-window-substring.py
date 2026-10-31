@@ -1,3 +1,5 @@
+#Solution by Greg Hogg
+
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if len(t) > len(s):
@@ -30,12 +32,12 @@ class Solution:
             if s[right] in hashing:
                 if s[right] not in comp:
                     comp[s[right]] = 1
-                    if comp[s[right]] == hashing[s[right]]:
-                        have += 1
+                    # if comp[s[right]] == hashing[s[right]]:
+                    #     have += 1
                 else:
                     comp[s[right]] += 1
-                    if comp[s[right]] == hashing[s[right]]:
-                        have += 1                    
+                if comp[s[right]] == hashing[s[right]]:
+                    have += 1                    
 
             # print("comp =", comp)
             # print("have =", have)
@@ -66,6 +68,10 @@ class Solution:
             # print("")
         
         return s[output[1][0] : output[1][1] + 1]
+
+
+
+# solution by TakeUForward 
 
 # class Solution:
 #     def minWindow(self, s: str, t: str) -> str:
