@@ -14,6 +14,7 @@ This is my Leetcode repository
 | [0039-combination-sum](https://github.com/Yug1020/Leetcodes/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yug1020/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Yug1020/Leetcodes/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yug1020/Leetcodes/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -238,6 +240,7 @@ This is my Leetcode repository
 | [0015-3sum](https://github.com/Yug1020/Leetcodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yug1020/Leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Yug1020/Leetcodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yug1020/Leetcodes/tree/master/0142-linked-list-cycle-ii) |
@@ -303,4 +306,12 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
