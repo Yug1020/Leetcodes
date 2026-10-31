@@ -13,7 +13,7 @@ class Solution:
         while r1 <= r2:
             if r1 <= r2 and nums[r1] == 2:
                 nums[r1], nums[r2] = nums[r2], nums[r1]
-                while nums[r2] == 2 and r2 > -1:
+                while nums[r2] == 2 and r2 >= r1:
                     r2 -= 1
             
             if r0 == r1 and r1 <= r2 and nums[r1] == 0:
