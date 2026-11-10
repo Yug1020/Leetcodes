@@ -11,6 +11,7 @@ This is my Leetcode repository
 | [0011-container-with-most-water](https://github.com/Yug1020/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yug1020/Leetcodes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Yug1020/Leetcodes/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Yug1020/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yug1020/Leetcodes/tree/master/0053-maximum-subarray) |
@@ -54,6 +55,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yug1020/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yug1020/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
