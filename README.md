@@ -61,6 +61,7 @@ This is my Leetcode repository
 | [0004-median-of-two-sorted-arrays](https://github.com/Yug1020/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yug1020/Leetcodes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Yug1020/Leetcodes/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yug1020/Leetcodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yug1020/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -205,6 +206,7 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yug1020/Leetcodes/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Yug1020/Leetcodes/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yug1020/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1447-simplified-fractions](https://github.com/Yug1020/Leetcodes/tree/master/1447-simplified-fractions) |
 | [3524-find-x-value-of-array-i](https://github.com/Yug1020/Leetcodes/tree/master/3524-find-x-value-of-array-i) |
@@ -328,4 +330,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yug1020/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yug1020/Leetcodes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
