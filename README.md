@@ -30,6 +30,7 @@ This is my Leetcode repository
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Yug1020/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Yug1020/Leetcodes/tree/master/0733-flood-fill) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yug1020/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Yug1020/Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Yug1020/Leetcodes/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yug1020/Leetcodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -67,6 +68,7 @@ This is my Leetcode repository
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yug1020/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Yug1020/Leetcodes/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yug1020/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yug1020/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
@@ -322,4 +324,8 @@ This is my Leetcode repository
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yug1020/Leetcodes/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yug1020/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
