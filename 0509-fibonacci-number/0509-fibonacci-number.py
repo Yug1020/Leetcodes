@@ -11,8 +11,7 @@ class Solution:
             else:
                 f = recursion(n - 1)
                 s = recursion(n - 2)
-                if n not in hashing:
-                    hashing[n] = f + s
+                hashing[n] = f + s
                 return f + s
 
         return recursion(n)
