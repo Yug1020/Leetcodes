@@ -25,6 +25,7 @@ This is my Leetcode repository
 | [0139-word-break](https://github.com/Yug1020/Leetcodes/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yug1020/Leetcodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yug1020/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/Yug1020/Leetcodes/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Yug1020/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yug1020/Leetcodes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Yug1020/Leetcodes/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +125,7 @@ This is my Leetcode repository
 | ------- |
 | [0039-combination-sum](https://github.com/Yug1020/Leetcodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yug1020/Leetcodes/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Yug1020/Leetcodes/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Yug1020/Leetcodes/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
