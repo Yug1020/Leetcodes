@@ -1,34 +1,20 @@
 class Solution:
-    def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
-        if candidates == [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]:
-            return [[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]
-        if candidates == [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]:
-            return [[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2]]
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()
-        output = []
-        n = len(candidates)
-        def recursion(ind, arr, total):
-            # print("")
-            if total == target:
-                # print(arr, "I am inside")
-                if arr not in output:
-                    output.append(arr[:])
+        res = []
+
+        def dfs(target, start, comb):
+            if target < 0:
                 return
-
-            if ind >= n or total > target:
+            if target == 0:
+                res.append(comb)
                 return
+            for i in range(start, len(candidates)):
+                if i > start and candidates[i] == candidates[i-1]:
+                    continue
+                if candidates[i] > target:
+                    break
+                dfs(target-candidates[i], i+1, comb+[candidates[i]])
 
-            arr.append(candidates[ind])
-            # print("left")
-            # print("ind, arr, total", ind, arr, total + candidates[ind])
-            left = recursion(ind + 1, arr, total + candidates[ind])
-
-            arr.pop()
-            # print("right")
-            # print("ind, arr, total", ind, arr, total)
-            right = recursion(ind + 1, arr, total)
-
-            return
-        
-        recursion(0, [], 0)
-        return output
+        dfs(target, 0, [])
+        return res
