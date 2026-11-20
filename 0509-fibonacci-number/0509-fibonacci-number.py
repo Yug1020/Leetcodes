@@ -1,11 +1,21 @@
 class Solution:
     def fib(self, n: int) -> int:
-        def recursion(n):
+        if n == 0 or n == 1:
+            return n
+        maping = {}
+        def recursion(n, maping):
             if n == 0 or n == 1:
                 return n
             
-            n = recursion(n - 1) + recursion(n - 2)
+            if n in maping:
+                return maping[n]
 
-            return n
+            f = recursion(n - 1, maping) 
+            s = recursion(n - 2, maping)
 
-        return recursion(n)
+            if n not in maping:
+                maping[n] = f + s
+
+            return f + s
+
+        return recursion(n, {})
